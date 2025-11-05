@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="badcf2ee-1afe-4e75-8972-1ce1f5dd0fee" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/dao/DaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/DaoFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Main2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -96,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1761939328859</updated>
       <workItem from="1761939330147" duration="7822000" />
-      <workItem from="1762192446466" duration="4634000" />
+      <workItem from="1762192446466" duration="11201000" />
     </task>
     <servers />
   </component>
